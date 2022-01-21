@@ -1,0 +1,43 @@
+Anagramic TODO
+
+
+
+Maybe directly add the first tiles so it doesn't look visually weird
+Menu
+Audio
+
+
+0 board
+0 UI
+	-1 icons/text
+-5 tiles
+	-1 letter mesh
+-10 tiles dragged
+-15 modal 
+-20 camera
+
+
+
+Done
+
+Build static racks
+Build static slots
+Draggable tiles
+Tiles move toward target
+Add tile click
+Do tiles know what the racks are?
+Check for collisions
+Set target based on collisions
+Got to clear the slots when we're moving things around
+Boxcolliders don't re-enable on drag
+Snap tiles to home more tightly
+Reduce tap duration requirement
+Add letters to tile
+Position slots correctly
+Persistant data manager
+Word list
+Add shuffle button to UI
+Skip button?
+Dragged tiles be on layer other tiles
+What happens when we run out of words
+Celebration Screen
